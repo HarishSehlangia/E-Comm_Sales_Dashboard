@@ -11,3 +11,6 @@ The main objective of this project is to create an interactive dashboard that pr
 
 -Gain visibility into areas where losses are occurring
 
+Thanks For Showing Your Interest T0 Analyze E-Commerce Sales Dashboard.
+
+HarishSehlangia!
