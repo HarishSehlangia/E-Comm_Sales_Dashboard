@@ -11,4 +11,3 @@ The main objective of this project is to create an interactive dashboard that pr
 
 -Gain visibility into areas where losses are occurring
 
--Project Learning
